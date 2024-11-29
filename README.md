@@ -42,11 +42,13 @@ This project helps learners:
 1. Clone or download this repository.  
 2. Launch the application with:  
    ```bash
-   streamlit run file_org.py
+   streamlit run app.py
    ```  
 3. Follow the user-friendly prompts to start organizing your files.
 <br>
 S JAIGANESH
 <br>
 LINKEDIN PROFILE: https://www.linkedin.com/in/jaiganeshs539/
+<br>
+VIDEO LINK: https://drive.google.com/file/d/1BbCqdAK9_8MFoi7X7JIEFh0muGeZ4D7y/view?usp=sharing
 
